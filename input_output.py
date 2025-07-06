@@ -46,5 +46,5 @@
 #Example 9
 # x,y =input("Enter the name and age:- ").split(",")
 
-# print(f"Name:{x},Age:{y}years")
+# print(f"Name:{x},Age:{y}years") #f:- formated strings
 
