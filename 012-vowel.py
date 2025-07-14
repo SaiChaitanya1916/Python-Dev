@@ -8,7 +8,7 @@ i = name2.count('i')
 o = name2.count('o')
 u = name2.count('u')
 
-# print(f"Number of vowels:-{a+e+i+o+u}")
+print(f"Number of vowels:-{a+e+i+o+u}")
 
 # Method 2
 
