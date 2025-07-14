@@ -2,7 +2,7 @@
 # name = input("enter your name:-")
 # age = int(input("enter your Age:-"))
 
-# print("Your entered Details:- "+name,age,name,age,sep=" , ",end="Here program was ended") #"sep" :- keyword to seperate
+# print("Your entered Details:- "+name,age,name,age,sep=" , ",end="Here program was ended")  #"sep" :- keyword to seperate
 #                                                                                           #"end":- it's keyword used at the end of the program to give any msg
 
 
