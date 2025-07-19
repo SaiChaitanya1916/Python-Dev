@@ -4,7 +4,7 @@
 # Duplicate elements are automatically removed
 
 
-# fruits = {'Apple','Bananna','Orange'}
+fruits = {'Apple','Bananna','Orange'}
 
 fruits.add('Grean Apple')
 fruits.remove('Apple')
